@@ -17,13 +17,13 @@
     <string name="kprofiles_auto_title">Використовувати автоматичні профілі</string>
     <string name="kprofiles_auto_summary">Автоматично переходити до режиму живлення, коли екран пристрою вимкнено і повернутися до типового профілю, коли екран увімкнений</string>
     <string name="kprofiles_modes_title">Режими профілів</string>
-    <string name="kprofiles_modes_none">None</string>
-    <string name="kprofiles_modes_battery">Battery</string>
-    <string name="kprofiles_modes_balanced">Balanced</string>
-    <string name="kprofiles_modes_performance">Performance</string>
-    <string name="kprofiles_not_supported">KProfiles is not currently supported by the kernel</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
-    <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
-    <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
+    <string name="kprofiles_modes_none">Немає</string>
+    <string name="kprofiles_modes_battery">Батарея</string>
+    <string name="kprofiles_modes_balanced">Збалансований</string>
+    <string name="kprofiles_modes_performance">Продуктивність</string>
+    <string name="kprofiles_not_supported">Профіль не підтримується ядром</string>
+    <string name="kprofiles_modes_none_description">Регулювати та керувати ядровими заходами, орієнтованими на профіль шляхом досягнення балансу в плані резервного копіювання та продуктивності акумулятора</string>
+    <string name="kprofiles_modes_battery_description">Режим акумулятора:\nпропустити весь користувацький простір і/або ядро завантажується, зменшує частоту масштабування gpu</string>
+    <string name="kprofiles_modes_balanced_description">Збалансований режим:\nПоради балансу між режимами роботи та продуктивності</string>
+    <string name="kprofiles_modes_performance_description">Режим продуктивності:\nМаксимізувати всі підсилювачі, збільшує частоту масштабування спаду до максимуму</string>
 </resources>
