@@ -13,9 +13,9 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="kprofiles_title">KProfiles</string>
-    <string name="kprofiles_summary">Managing Kernelspace profiles to achieve balancing in terms of battery backup and performance</string>
-    <string name="kprofiles_auto_title">Use Auto KProfiles</string>
-    <string name="kprofiles_auto_summary">Automatically switch to battery mode when device screen turns off and back to default profile when screen turns on</string>
+    <string name="kprofiles_summary">管理核心空間的設定檔，以實現在電池續航和性能方面的平衡。</string>
+    <string name="kprofiles_auto_title">使用自動 KProfiles</string>
+    <string name="kprofiles_auto_summary">當設備螢幕關閉時自動切換到省電模式，並在螢幕開啟時切換回預設設定檔。</string>
     <string name="kprofiles_modes_title">KProfiles 模式</string>
     <string name="kprofiles_modes_none">無</string>
     <string name="kprofiles_modes_battery">省電</string>
