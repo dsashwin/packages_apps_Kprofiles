@@ -12,17 +12,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="kprofiles_title">KProfiles</string>
-    <string name="kprofiles_summary">Managing Kernelspace profiles to achieve balancing in terms of battery backup and performance</string>
-    <string name="kprofiles_auto_title">Use Auto KProfiles</string>
-    <string name="kprofiles_auto_summary">Automatically switch to battery mode when device screen turns off and back to default profile when screen turns on</string>
-    <string name="kprofiles_modes_title">KProfiles Modes</string>
-    <string name="kprofiles_modes_none">None</string>
-    <string name="kprofiles_modes_battery">Battery</string>
-    <string name="kprofiles_modes_balanced">Balanced</string>
-    <string name="kprofiles_modes_performance">Performance</string>
-    <string name="kprofiles_not_supported">KProfiles is not currently supported by the kernel</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
+    <string name="kprofiles_title">കെപ്രൊഫൈൽസ്</string>
+    <string name="kprofiles_summary">ബാറ്ററി ബാക്കപ്പിന്റെയും പ്രകടനത്തിന്റെയും കാര്യത്തിൽ ബാലൻസ് നേടുന്നതിന് കേർണൽസ്പേസ് പ്രൊഫൈലുകൾ കൈകാര്യം ചെയ്യുന്നു</string>
+    <string name="kprofiles_auto_title">ഓട്ടോ കെപ്രൊഫൈലുകൾ ഉപയോഗിക്കുക</string>
+    <string name="kprofiles_auto_summary">സ്‌ക്രീൻ ഓഫാകുമ്പോൾ ബാറ്ററി മോഡിലേക്കും സ്‌ക്രീൻ ഓണാകുമ്പോൾ ഡിഫോൾട്ട് പ്രൊഫൈലിലേക്കും സ്വയമേവ മാറുക</string>
+    <string name="kprofiles_modes_title">കെപ്രൊഫൈൽസ് മോഡ്</string>
+    <string name="kprofiles_modes_none">ഒന്നുമല്ല</string>
+    <string name="kprofiles_modes_battery">ബാറ്ററി</string>
+    <string name="kprofiles_modes_balanced">ബാലൻസ്</string>
+    <string name="kprofiles_modes_performance">പെർഫോമൻസ്</string>
+    <string name="kprofiles_not_supported">കെപ്രൊഫൈൽസ് നിലവിൽ കേർണൽ പിന്തുണയ്ക്കുന്നില്ല</string>
+    <string name="kprofiles_modes_none_description">ബാറ്ററി ബാക്കപ്പിന്റെയും പ്രകടനത്തിന്റെയും കാര്യത്തിൽ ബാലൻസ് നേടുന്നതിന് പ്രൊഫൈൽ അധിഷ്ഠിത രീതിയിൽ ഇൻ-കേർണൽ പ്രവർത്തനങ്ങൾ നിയന്ത്രിക്കുകയും നിയന്ത്രിക്കുകയും ചെയ്യുക</string>
     <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
     <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
     <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
