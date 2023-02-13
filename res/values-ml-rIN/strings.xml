@@ -23,7 +23,7 @@
     <string name="kprofiles_modes_performance">പെർഫോമൻസ്</string>
     <string name="kprofiles_not_supported">കെപ്രൊഫൈൽസ് നിലവിൽ കേർണൽ പിന്തുണയ്ക്കുന്നില്ല</string>
     <string name="kprofiles_modes_none_description">ബാറ്ററി ബാക്കപ്പിന്റെയും പ്രകടനത്തിന്റെയും കാര്യത്തിൽ ബാലൻസ് നേടുന്നതിന് പ്രൊഫൈൽ അധിഷ്ഠിത രീതിയിൽ ഇൻ-കേർണൽ പ്രവർത്തനങ്ങൾ നിയന്ത്രിക്കുകയും നിയന്ത്രിക്കുകയും ചെയ്യുക</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
-    <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
-    <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
+    <string name="kprofiles_modes_battery_description">ബാറ്ററി മോഡ്:\nഎല്ലാ യൂസർസ്പേസും കൂടാതെ/അല്ലെങ്കിൽ ഇൻ-കേർണൽ ബൂസ്റ്റുകളും ഒഴിവാക്കുക, ജിപിയു സ്കെയിലിംഗ് ആവൃത്തി കുറയ്ക്കുന്നു</string>
+    <string name="kprofiles_modes_balanced_description">ബാലൻസ്ഡ് മോഡ്:\nബാറ്ററിയും പെർഫോമൻസ് മോഡുകളും തമ്മിലുള്ള ബാലൻസ് ടിപ്പ് ചെയ്യുന്നു</string>
+    <string name="kprofiles_modes_performance_description">പെർഫോമൻസ് മോഡ്:\nഎല്ലാ ബൂസ്റ്റുകളും പരമാവധിയാക്കുക, gpu സ്കെയിലിംഗ് ആവൃത്തി പരമാവധി വർദ്ധിപ്പിക്കുക</string>
 </resources>
