@@ -16,14 +16,14 @@
     <string name="kprofiles_summary">Managing Kernelspace profiles to achieve balancing in terms of battery backup and performance</string>
     <string name="kprofiles_auto_title">Use Auto KProfiles</string>
     <string name="kprofiles_auto_summary">Automatically switch to battery mode when device screen turns off and back to default profile when screen turns on</string>
-    <string name="kprofiles_modes_title">KProfiles Modes</string>
-    <string name="kprofiles_modes_none">None</string>
-    <string name="kprofiles_modes_battery">Battery</string>
-    <string name="kprofiles_modes_balanced">Balanced</string>
-    <string name="kprofiles_modes_performance">Performance</string>
-    <string name="kprofiles_not_supported">KProfiles is not currently supported by the kernel</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
-    <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
-    <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
+    <string name="kprofiles_modes_title">KProfiles 模式</string>
+    <string name="kprofiles_modes_none">無</string>
+    <string name="kprofiles_modes_battery">省電</string>
+    <string name="kprofiles_modes_balanced">平衡</string>
+    <string name="kprofiles_modes_performance">性能</string>
+    <string name="kprofiles_not_supported">Kprofiles不受目前內核的支持</string>
+    <string name="kprofiles_modes_none_description">以面向設定檔的方式調整和管理核心活動，以實現電池續航和效能的平衡。</string>
+    <string name="kprofiles_modes_battery_description">省電模式：\n略過所有用戶端和/或內核的加速功能，降低 GPU 頻率的調整比例。</string>
+    <string name="kprofiles_modes_balanced_description">平衡模式：\n平衡電池和效能模式之間的選項。</string>
+    <string name="kprofiles_modes_performance_description">性能模式：\n最大化所有內核加速，增強將 GPU 頻率的調整比例。</string>
 </resources>
