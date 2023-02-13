@@ -12,18 +12,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="kprofiles_title">Hồ sơ K</string>
+    <string name="kprofiles_title">KProfiles</string>
     <string name="kprofiles_summary">Quản lý cấu hình Kernel space để đạt được sự cân bằng về hiệu suất và sao lưu pin</string>
-    <string name="kprofiles_auto_title">Sử dụng tự động hồ sơ K</string>
+    <string name="kprofiles_auto_title">Sử dụng KProfiles tự động</string>
     <string name="kprofiles_auto_summary">Tự động chuyển sang chế độ pin khi tắt màn hình thiết bị và trở về cấu hình mặc định khi bật màn hình</string>
-    <string name="kprofiles_modes_title">Chế độ hồ sơ K</string>
+    <string name="kprofiles_modes_title">Chế độ KProfiles</string>
     <string name="kprofiles_modes_none">Không</string>
     <string name="kprofiles_modes_battery">Pin</string>
     <string name="kprofiles_modes_balanced">Cân bằng</string>
-    <string name="kprofiles_modes_performance">Hiệu năng</string>
-    <string name="kprofiles_not_supported">KProfiles hiện không được hạt nhân hỗ trợ</string>
-    <string name="kprofiles_modes_none_description">Điều chỉnh và quản lý các hoạt động trong nhân theo cách định hướng hồ sơ để đạt được sự cân bằng về hiệu suất và sao lưu pin phù hợp</string>
-    <string name="kprofiles_modes_battery_description">Chế độ pin:\nBỏ qua tất cả không gian người dùng và/hoặc tăng cường trong nhân, giảm tần suất thay đổi quy mô gpu</string>
-    <string name="kprofiles_modes_balanced_description">Chế độ cân bằng:\nMẹo cân bằng giữa chế độ pin và hiệu suất</string>
+    <string name="kprofiles_modes_performance">Hiệu suất cao</string>
+    <string name="kprofiles_not_supported">KProfiles hiện không được hỗ trợ boiwr kernel</string>
+    <string name="kprofiles_modes_none_description">Điều chỉnh và quản lý các hoạt động trong kernel theo cách định hướng cấu hình để đạt được sự cân bằng về hiệu suất và thời lượng pin phù hợp</string>
+    <string name="kprofiles_modes_battery_description">Chế độ pin:\nBỏ qua tất cả không gian người dùng và/hoặc tăng cường trong kernel, giảm tần suất thay đổi quy mô gpu</string>
+    <string name="kprofiles_modes_balanced_description">Chế độ cân bằng:\nCân bằng giữa chế độ pin và hiệu suất</string>
     <string name="kprofiles_modes_performance_description">Chế độ hiệu suất:\nTối đa hóa tất cả các mức tăng cường, tăng tần số mở rộng gpu lên mức tối đa</string>
 </resources>
