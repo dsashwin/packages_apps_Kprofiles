@@ -13,17 +13,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="kprofiles_title">KProfiles</string>
-    <string name="kprofiles_summary">Gerenciando os perfis do Kernelspace para alcançar o equilíbrio em termos do uso da bateria e desempenho</string>
+    <string name="kprofiles_summary">Gerenciar os perfis do Kernelspace para alcançar o equilíbrio entre bateria e desempenho</string>
     <string name="kprofiles_auto_title">Usar perfis automáticos</string>
-    <string name="kprofiles_auto_summary">Alternar automaticamente para o modo de bateria quando a tela do dispositivo desligar e voltar ao perfil padrão quando a tela ligar</string>
+    <string name="kprofiles_auto_summary">Alternar automaticamente para o modo de bateria quando a tela do dispositivo estiver apagada e voltar ao perfil padrão quando ligar a tela</string>
     <string name="kprofiles_modes_title">Modos KProfiles</string>
     <string name="kprofiles_modes_none">Nenhum</string>
     <string name="kprofiles_modes_battery">Bateria</string>
     <string name="kprofiles_modes_balanced">Balanceado</string>
     <string name="kprofiles_modes_performance">Desempenho</string>
     <string name="kprofiles_not_supported">KProfiles não são atualmente suportados pelo kernel</string>
-    <string name="kprofiles_modes_none_description">Regulamenta e gerencia as atividades dentro do kernel de forma focada no perfil para alcançar o equilíbrio em termos de bateria e desempenho</string>
-    <string name="kprofiles_modes_battery_description">Modo de bateria:\nIgnorar todos os espaços do usuário e/ou impulsos do kernel, reduzindo a frequência de escala da gpu</string>
-    <string name="kprofiles_modes_balanced_description">Modo Balanceado:\nAjusta o equilíbrio entre os modos de bateria e desempenho</string>
-    <string name="kprofiles_modes_performance_description">Modo de desempenho:\nMaximiza todos os impulsos, aumentando a frequência de escala da gpu até seu máximo</string>
+    <string name="kprofiles_modes_none_description">Regula e gerencia as atividades do kernel de forma orientada para alcançar o equilíbrio entre bateria e desempenho</string>
+    <string name="kprofiles_modes_battery_description">Modo de bateria:\nIgnora as configurações do usuário e impulsos do kernel, reduz a frequência da GPU</string>
+    <string name="kprofiles_modes_balanced_description">Modo balanceado:\nAjusta o equilíbrio entre os modos de bateria e desempenho</string>
+    <string name="kprofiles_modes_performance_description">Modo de desempenho:\nMaximiza todos os impulsos e aumenta a frequência da GPU ao máximo</string>
 </resources>
