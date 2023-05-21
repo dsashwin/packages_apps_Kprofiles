@@ -22,7 +22,7 @@
     <string name="kprofiles_modes_balanced">Balanserad</string>
     <string name="kprofiles_modes_performance">Prestanda</string>
     <string name="kprofiles_not_supported">KProfiles stöds för närvarande inte av kärnan</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
+    <string name="kprofiles_modes_none_description">Reglera och hantera aktiviteter i kärnan på ett profilorienterat sätt för att uppnå balans när det gäller batteritid och prestanda</string>
     <string name="kprofiles_modes_battery_description">Batteriläge:\nHoppa över all användarplats och/eller in-kernel boostar, minskar gpu-skalningsfrekvensen</string>
     <string name="kprofiles_modes_balanced_description">Balanserat läge:\nBalanserar mellan batteri- och prestandalägen</string>
     <string name="kprofiles_modes_performance_description">Prestandaläge:\nMaximera alla booster, ökar gpuskalningsfrekvensen till max</string>
