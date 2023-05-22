@@ -15,9 +15,9 @@
     <string name="kprofiles_title">KProfiler</string>
     <string name="kprofiles_summary">Hantera Kernelspace-profiler för att uppnå balansering när det gäller batteritid och prestanda</string>
     <string name="kprofiles_auto_title">Använd automatiskt KProfiler</string>
-    <string name="kprofiles_auto_summary">Växla automatiskt till batteriläge när enhetsskärmen stängs av och tillbaka till standardprofilen när skärmen slås på</string>
+    <string name="kprofiles_auto_summary">Växla automatiskt till batteriläge när enhets skärmen stängs av och tillbaka till standardprofilen när skärmen slås på</string>
     <string name="kprofiles_modes_title">KProfiler lägen</string>
-    <string name="kprofiles_modes_none">Inga</string>
+    <string name="kprofiles_modes_none">Ingen</string>
     <string name="kprofiles_modes_battery">Batteri</string>
     <string name="kprofiles_modes_balanced">Balanserad</string>
     <string name="kprofiles_modes_performance">Prestanda</string>
