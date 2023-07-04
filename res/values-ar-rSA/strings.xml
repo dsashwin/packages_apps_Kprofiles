@@ -22,8 +22,8 @@
     <string name="kprofiles_modes_balanced">متوازن</string>
     <string name="kprofiles_modes_performance">الأداء</string>
     <string name="kprofiles_not_supported">KProfiles غير مدعوم حاليا من قبل kernel</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
-    <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
-    <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
+    <string name="kprofiles_modes_none_description">تنظيم وإدارة الأنشطة داخل النواة بطريقة موجهة نحو تحقيق التوازن من حيث النسخ الاحتياطي للبطاريات والأداء وفقا لذلك</string>
+    <string name="kprofiles_modes_battery_description">وضع البطارية: \n تخطي كل مساحة المستخدمين و / أو التعزيزات في النواة ، ويقلل من تردد تحجيم وحدة معالجة الرُّسُومات</string>
+    <string name="kprofiles_modes_balanced_description">الوضع المتوازن: \n يوجه التوازن بين وضع حماية البطارية والأداء</string>
+    <string name="kprofiles_modes_performance_description">وضع الأداء: \n قم بزيادة كل التعزيزات ، وزيادة تردد تحجيم وحدة معالجة الرُّسُومات إلى أقصى حد لها</string>
 </resources>
