@@ -12,10 +12,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="kprofiles_title">KProfiles</string>
-    <string name="kprofiles_summary">Managing Kernelspace profiles to achieve balancing in terms of battery backup and performance</string>
-    <string name="kprofiles_auto_title">Use Auto KProfiles</string>
-    <string name="kprofiles_auto_summary">Automatically switch to battery mode when device screen turns off and back to default profile when screen turns on</string>
+    <string name="kprofiles_title">内核配置</string>
+    <string name="kprofiles_summary">管理内核空间配置文件，以实现电池备份和性能方面的平衡</string>
+    <string name="kprofiles_auto_title">使用自动内核配置</string>
+    <string name="kprofiles_auto_summary">当设备屏幕关闭时自动切换到省电模式，当屏幕打开时返回默认配置文件</string>
     <string name="kprofiles_modes_title">KProfiles Modes</string>
     <string name="kprofiles_modes_none">None</string>
     <string name="kprofiles_modes_battery">Battery</string>
