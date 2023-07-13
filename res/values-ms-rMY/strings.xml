@@ -13,7 +13,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="kprofiles_title">KProfiles</string>
-    <string name="kprofiles_summary">Mengurus Kernelspace bagi mencapai keseimbangan dari segi sandaran bateri dan prestasi</string>
+    <string name="kprofiles_summary">Mengurus Kernelspace bagi mencapai keseimbangan dari segi bateri dan prestasi</string>
     <string name="kprofiles_auto_title">Guna KProfiles Auto</string>
     <string name="kprofiles_auto_summary">Menukar kepada mod bateri secara automatik apabila layar peranti dimatikan dan kembali kepada profil lalai apabila layar dihidupkan</string>
     <string name="kprofiles_modes_title">Mod KProfiles</string>
@@ -22,7 +22,7 @@
     <string name="kprofiles_modes_balanced">Seimbang</string>
     <string name="kprofiles_modes_performance">Prestasi</string>
     <string name="kprofiles_not_supported">KProfiles pada masa ini tidak disokong oleh kernel</string>
-    <string name="kprofiles_modes_none_description">Menyelia dan mengurus aktiviti dalam kernel dengan cara berpandukan profil untuk mencapai keseimbangan dari segi sandaran bateri dan prestasi sewajarnya</string>
+    <string name="kprofiles_modes_none_description">Menyelia dan mengurus aktiviti dalam kernel dengan berpandukan profil untuk mencapai keseimbangan dari segi bateri dan prestasi sewajarnya</string>
     <string name="kprofiles_modes_battery_description">Mod Bateri:\nLangkau semua userspace dan/atau galakan dalam kernel, mengurangkan kekerapan pengskalaan gpu</string>
     <string name="kprofiles_modes_balanced_description">Mod Seimbang:\nKeseimbangan antara bateri dan mod prestasi</string>
     <string name="kprofiles_modes_performance_description">Mod Prestasi:\nMemaksimumkan semua galakan, meningkatkan kekerapan pengskalaan gpu secara maksimum</string>
