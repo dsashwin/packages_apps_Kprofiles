@@ -13,17 +13,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="kprofiles_title">KProfiles</string>
-    <string name="kprofiles_summary">Managing Kernelspace profiles to achieve balancing in terms of battery backup and performance</string>
-    <string name="kprofiles_auto_title">Use Auto KProfiles</string>
-    <string name="kprofiles_auto_summary">Automatically switch to battery mode when device screen turns off and back to default profile when screen turns on</string>
-    <string name="kprofiles_modes_title">KProfiles Modes</string>
-    <string name="kprofiles_modes_none">None</string>
-    <string name="kprofiles_modes_battery">Battery</string>
-    <string name="kprofiles_modes_balanced">Balanced</string>
-    <string name="kprofiles_modes_performance">Performance</string>
-    <string name="kprofiles_not_supported">KProfiles is not currently supported by the kernel</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
-    <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
-    <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
+    <string name="kprofiles_summary">إدارة Kernelspace profiles للحصول على التوازن في احتياطي البطارية وأدائها</string>
+    <string name="kprofiles_auto_title">استخدام KProfiles تلقائياً</string>
+    <string name="kprofiles_auto_summary">التبديل تلقائياً إلى وضع حماية البطارية عند إيقاف تشغيل شاشة الجهاز والعودة إلى الوضع الافتراضي عند تشغيل الشاشة</string>
+    <string name="kprofiles_modes_title">أوضاع KProfiles</string>
+    <string name="kprofiles_modes_none">لايوجد</string>
+    <string name="kprofiles_modes_battery">البطارية</string>
+    <string name="kprofiles_modes_balanced">متوازن</string>
+    <string name="kprofiles_modes_performance">الأداء</string>
+    <string name="kprofiles_not_supported">KProfiles غير مدعوم حاليا من قبل kernel</string>
+    <string name="kprofiles_modes_none_description">تنظيم وإدارة الأنشطة داخل النواة بطريقة موجهة نحو تحقيق التوازن من حيث النسخ الاحتياطي للبطاريات والأداء وفقا لذلك</string>
+    <string name="kprofiles_modes_battery_description">وضع البطارية: \n تخطي كل مساحة المستخدمين و / أو التعزيزات في النواة ، ويقلل من تردد تحجيم وحدة معالجة الرُّسُومات</string>
+    <string name="kprofiles_modes_balanced_description">الوضع المتوازن: \n يوجه التوازن بين وضع حماية البطارية والأداء</string>
+    <string name="kprofiles_modes_performance_description">وضع الأداء: \n قم بزيادة كل التعزيزات ، وزيادة تردد تحجيم وحدة معالجة الرُّسُومات إلى أقصى حد لها</string>
 </resources>
