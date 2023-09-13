@@ -22,8 +22,8 @@
     <string name="kprofiles_modes_balanced">Balanced</string>
     <string name="kprofiles_modes_performance">Performance</string>
     <string name="kprofiles_not_supported">KProfiles is not currently supported by the kernel</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
-    <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
-    <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
+    <string name="kprofiles_modes_none_description">通过概要文件来调整和管理内部。</string>
+    <string name="kprofiles_modes_battery_description">电池模式:\n降低GPU缩放频率</string>
+    <string name="kprofiles_modes_balanced_description">平衡模式：\n提示电池和性能模式之间的平衡</string>
+    <string name="kprofiles_modes_performance_description">性能模式：\n最大化所有boosts，将GPU缩放频率提高到最大</string>
 </resources>
