@@ -16,14 +16,14 @@
     <string name="kprofiles_summary">管理内核空间配置文件，以实现电池备份和性能方面的平衡</string>
     <string name="kprofiles_auto_title">使用自动内核配置</string>
     <string name="kprofiles_auto_summary">当设备屏幕关闭时自动切换到省电模式，当屏幕打开时返回默认配置文件</string>
-    <string name="kprofiles_modes_title">KProfiles Modes</string>
-    <string name="kprofiles_modes_none">None</string>
-    <string name="kprofiles_modes_battery">Battery</string>
-    <string name="kprofiles_modes_balanced">Balanced</string>
-    <string name="kprofiles_modes_performance">Performance</string>
-    <string name="kprofiles_not_supported">KProfiles is not currently supported by the kernel</string>
+    <string name="kprofiles_modes_title">KProfiles模式</string>
+    <string name="kprofiles_modes_none">无</string>
+    <string name="kprofiles_modes_battery">长续航</string>
+    <string name="kprofiles_modes_balanced">平衡</string>
+    <string name="kprofiles_modes_performance">高性能</string>
+    <string name="kprofiles_not_supported">内核目前不支持KProfiles</string>
     <string name="kprofiles_modes_none_description">通过概要文件来调整和管理内部。</string>
-    <string name="kprofiles_modes_battery_description">电池模式:\n降低GPU缩放频率</string>
+    <string name="kprofiles_modes_battery_description">长续航模式:\n降低GPU缩放频率</string>
     <string name="kprofiles_modes_balanced_description">平衡模式：\n提示电池和性能模式之间的平衡</string>
-    <string name="kprofiles_modes_performance_description">性能模式：\n最大化所有boosts，将GPU缩放频率提高到最大</string>
+    <string name="kprofiles_modes_performance_description">高性能模式：\n最大化所有boosts，将GPU缩放频率提高到最大</string>
 </resources>
