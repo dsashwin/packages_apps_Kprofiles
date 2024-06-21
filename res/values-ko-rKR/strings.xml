@@ -23,7 +23,7 @@
     <string name="kprofiles_modes_performance">성능</string>
     <string name="kprofiles_not_supported">KProfiles가 현재 커널에 의해 지원되지 않음</string>
     <string name="kprofiles_modes_none_description">배터리 및 성능 측면에서 균형을 이룰 수 있도록 프로파일 지향적인 방식으로 커널 내 활동을 규제하고 관리합니다.</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
+    <string name="kprofiles_modes_battery_description">배터리 모드:\n모든 사용자 공간 그리고/혹은 커널 내 부스트를 건너뛰고, GPU 스케일링 빈도를 줄입니다.</string>
     <string name="kprofiles_modes_balanced_description">균형 모드:\n배터리와 성능 모드 간의 균형을 조정합니다</string>
     <string name="kprofiles_modes_performance_description">성능 모드:\n모든 부스트를 최대화하고 Gpu 확장 빈도를 최대로 높입니다.</string>
 </resources>
