@@ -13,17 +13,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="kprofiles_title">KProfiles</string>
-    <string name="kprofiles_summary">Managing Kernelspace profiles to achieve balancing in terms of battery backup and performance</string>
-    <string name="kprofiles_auto_title">Use Auto KProfiles</string>
-    <string name="kprofiles_auto_summary">Automatically switch to battery mode when device screen turns off and back to default profile when screen turns on</string>
-    <string name="kprofiles_modes_title">KProfiles Modes</string>
-    <string name="kprofiles_modes_none">None</string>
-    <string name="kprofiles_modes_battery">Battery</string>
-    <string name="kprofiles_modes_balanced">Balanced</string>
-    <string name="kprofiles_modes_performance">Performance</string>
-    <string name="kprofiles_not_supported">KProfiles is not currently supported by the kernel</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
-    <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
-    <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
+    <string name="kprofiles_summary">배터리 사용 시간과 성능의 균형을 달성하기 위하여 커널 공간의 프로파일을 조정</string>
+    <string name="kprofiles_auto_title">자동 KProfiles 사용</string>
+    <string name="kprofiles_auto_summary">자동으로 화면이 꺼졌을 때 자동으로 배터리 절약 모드, 켜졌을 때 기본 모드로 전환</string>
+    <string name="kprofiles_modes_title">KProfiles 모드</string>
+    <string name="kprofiles_modes_none">없음</string>
+    <string name="kprofiles_modes_battery">배터리 절약</string>
+    <string name="kprofiles_modes_balanced">균형</string>
+    <string name="kprofiles_modes_performance">성능</string>
+    <string name="kprofiles_not_supported">KProfiles가 현재 커널에 의해 지원되지 않음</string>
+    <string name="kprofiles_modes_none_description">배터리 및 성능 측면에서 균형을 이룰 수 있도록 프로파일 지향적인 방식으로 커널 내 활동을 규제하고 관리합니다.</string>
+    <string name="kprofiles_modes_battery_description">배터리 모드:\n모든 사용자 공간 그리고/혹은 커널 내 부스트를 건너뛰고, GPU 스케일링 빈도를 줄입니다.</string>
+    <string name="kprofiles_modes_balanced_description">균형 모드:\n배터리와 성능 모드 간의 균형을 조정합니다</string>
+    <string name="kprofiles_modes_performance_description">성능 모드:\n모든 부스트를 최대화하고 Gpu 확장 빈도를 최대로 높입니다.</string>
 </resources>

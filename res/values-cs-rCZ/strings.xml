@@ -12,18 +12,18 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="kprofiles_title">KProfiles</string>
-    <string name="kprofiles_summary">Managing Kernelspace profiles to achieve balancing in terms of battery backup and performance</string>
-    <string name="kprofiles_auto_title">Use Auto KProfiles</string>
-    <string name="kprofiles_auto_summary">Automatically switch to battery mode when device screen turns off and back to default profile when screen turns on</string>
-    <string name="kprofiles_modes_title">KProfiles Modes</string>
-    <string name="kprofiles_modes_none">None</string>
-    <string name="kprofiles_modes_battery">Battery</string>
-    <string name="kprofiles_modes_balanced">Balanced</string>
-    <string name="kprofiles_modes_performance">Performance</string>
-    <string name="kprofiles_not_supported">KProfiles is not currently supported by the kernel</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
-    <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
-    <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
+    <string name="kprofiles_title">Profily</string>
+    <string name="kprofiles_summary">Řízení profilů jádra Kernelspace pro dosažení rovnováhy z hlediska zálohování a výkonu baterie</string>
+    <string name="kprofiles_auto_title">Použít automatické profily</string>
+    <string name="kprofiles_auto_summary">Automaticky přepnout do režimu baterie, když se obrazovka vypne. Návrat na výchozí profil při zapnutí obrazovky</string>
+    <string name="kprofiles_modes_title">Režimy profilů</string>
+    <string name="kprofiles_modes_none">Žádné</string>
+    <string name="kprofiles_modes_battery">Baterie</string>
+    <string name="kprofiles_modes_balanced">Vyvážený</string>
+    <string name="kprofiles_modes_performance">Výkon</string>
+    <string name="kprofiles_not_supported">Profily nejsou jádrem aktuálně podporovány.</string>
+    <string name="kprofiles_modes_none_description">Regulujte a spravujte aktivity v jádře způsobem orientovaným na profil, aby bylo dosaženo rovnováhy, pokud jde o zálohování a výkon baterie</string>
+    <string name="kprofiles_modes_battery_description">Režim baterie:\nPřeskočit všechny uživatelské prostory a/nebo boosty v jádře, sníží frekvenci škálování GPU</string>
+    <string name="kprofiles_modes_balanced_description">Režim vyvážení:\nTipy rovnováhy mezi režimem baterie a výkonností</string>
+    <string name="kprofiles_modes_performance_description">Výkonnostní režim:\nMaximalizuje všechny boost,y zvyší frekvenci škálování GPU na maximální hodnotu</string>
 </resources>

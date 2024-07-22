@@ -13,17 +13,17 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="kprofiles_title">KProfiles</string>
-    <string name="kprofiles_summary">Managing Kernelspace profiles to achieve balancing in terms of battery backup and performance</string>
-    <string name="kprofiles_auto_title">Use Auto KProfiles</string>
-    <string name="kprofiles_auto_summary">Automatically switch to battery mode when device screen turns off and back to default profile when screen turns on</string>
-    <string name="kprofiles_modes_title">KProfiles Modes</string>
-    <string name="kprofiles_modes_none">None</string>
-    <string name="kprofiles_modes_battery">Battery</string>
-    <string name="kprofiles_modes_balanced">Balanced</string>
-    <string name="kprofiles_modes_performance">Performance</string>
-    <string name="kprofiles_not_supported">KProfiles is not currently supported by the kernel</string>
-    <string name="kprofiles_modes_none_description">Regulate and manage in-kernel activities in a profile-oriented manner to achieve balance in terms of battery backup and performance accordingly</string>
-    <string name="kprofiles_modes_battery_description">Battery Mode:\nSkip all userspace and/or in-kernel boosts, reduces gpu scaling frequency</string>
-    <string name="kprofiles_modes_balanced_description">Balanced Mode:\nTips the balance between battery and performance modes</string>
-    <string name="kprofiles_modes_performance_description">Performance Mode:\nMaximize all boosts, increases gpu scaling frequency to its max</string>
+    <string name="kprofiles_summary">Mengurus Kernelspace bagi mencapai keseimbangan dari segi bateri dan prestasi</string>
+    <string name="kprofiles_auto_title">Guna KProfiles Auto</string>
+    <string name="kprofiles_auto_summary">Menukar kepada mod bateri secara automatik apabila layar peranti dimatikan dan kembali kepada profil lalai apabila layar dihidupkan</string>
+    <string name="kprofiles_modes_title">Mod KProfiles</string>
+    <string name="kprofiles_modes_none">Tiada</string>
+    <string name="kprofiles_modes_battery">Bateri</string>
+    <string name="kprofiles_modes_balanced">Seimbang</string>
+    <string name="kprofiles_modes_performance">Prestasi</string>
+    <string name="kprofiles_not_supported">KProfiles pada masa ini tidak disokong oleh kernel</string>
+    <string name="kprofiles_modes_none_description">Menyelia dan mengurus aktiviti dalam kernel dengan berpandukan profil untuk mencapai keseimbangan dari segi bateri dan prestasi sewajarnya</string>
+    <string name="kprofiles_modes_battery_description">Mod Bateri:\nLangkau semua userspace dan/atau galakan dalam kernel, mengurangkan kekerapan pengskalaan gpu</string>
+    <string name="kprofiles_modes_balanced_description">Mod Seimbang:\nKeseimbangan antara bateri dan mod prestasi</string>
+    <string name="kprofiles_modes_performance_description">Mod Prestasi:\nMemaksimumkan semua galakan, meningkatkan kekerapan pengskalaan gpu secara maksimum</string>
 </resources>
